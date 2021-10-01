@@ -18,4 +18,4 @@
 
 ## Documentación endpoint
 
-Agregue aquí al documentación del endpoint elaborado.
+El Submit hace el llamado al método getresults y este a su vez implementa la lógica para encontrar los jugadores buscados( se que esto no es lo que se esperaba pero no pude pensar en otra forma, me bloquee durante el parcial)
