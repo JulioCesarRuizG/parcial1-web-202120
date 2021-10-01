@@ -18,4 +18,4 @@
 
 ## Documentación endpoint
 
-El Submit hace el llamado al método getresults y este a su vez implementa la lógica para encontrar los jugadores buscados( se que esto no es lo que se esperaba pero no pude pensar en otra forma, me bloquee durante el parcial)
+El botón Submit hace el llamado al método getresults y este a su vez implementa la lógica para encontrar los jugadores buscados( se que esto no es lo que se esperaba pero fue la única forma que pude pensar, me bloquee durante el parcial y solo vi esto como solución para entregar la lógica)
